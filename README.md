@@ -19,7 +19,7 @@ $ npm install nodemon --save-dev
 ### or 
 Simply **npm install**
 
-##To view demo
+## To view demo
 if nodemon is installed use this command to run 
 ```bash
 $ nodemon index
