@@ -17,7 +17,7 @@ $ npm install socket.io --save
 $ npm install nodemon --save-dev
 ```
 ### or 
-Simply **npm install**
+Simply **npm install** this will automatically install all the required dependencies.
 
 ## To view demo
 if nodemon is installed use this command to run 
