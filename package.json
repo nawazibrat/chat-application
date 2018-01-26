@@ -7,6 +7,11 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "heroku",
+    "chat app demo",
+    "example"
+  ],
   "author": "venkat",
   "license": "ISC",
   "repository": {
@@ -19,5 +24,8 @@
   },
   "devDependencies": {
     "nodemon": "^1.14.3"
+  },
+  "engines": {
+    "node": "8.9.1"
   }
 }
